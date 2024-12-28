@@ -85,6 +85,6 @@ This project is a console-based implementation of a **Math Quiz** game, where pl
 
 ## Future Enhancements
 
--Add more advanced features like time limits or higher difficulty levels.
--Implement a scoring system based on time or answer accuracy.
--Develop a graphical user interface (GUI) for a more interactive experience.
+- Add more advanced features like time limits or higher difficulty levels.
+- Implement a scoring system based on time or answer accuracy.
+- Develop a graphical user interface (GUI) for a more interactive experience.
